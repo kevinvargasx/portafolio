@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Backend = () => {
   return (
@@ -8,7 +8,7 @@ const Backend = () => {
         <div className="skills__box">
             <div className="skills__group">
                 <div className="skills__data">
-                    <i class="fa-brands fa-php icon"></i>
+                    <i className="bx bx-badge-check"></i>
 
                     <div>
                         <h3 className="skills__name">PHP</h3>
@@ -18,7 +18,7 @@ const Backend = () => {
 
                 <div className="skills__data">
                     
-                    <i class="fa-brands fa-node icon"></i>
+                    <i className="bx bx-badge-check"></i>
 
                     <div>
                         <h3 className="skills__name">Node Js</h3>
@@ -28,7 +28,7 @@ const Backend = () => {
 
                 <div className="skills__data">
                     
-                    <i class="fa-brands fa-python icon"></i>
+                    <i className="bx bx-badge-check"></i>
 
                     <div>
                         <h3 className="skills__name">Python</h3>

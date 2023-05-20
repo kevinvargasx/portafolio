@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
  
 const Frontend = () => {
   return (
@@ -9,7 +9,7 @@ const Frontend = () => {
             <div className="skills__group">
                 <div className="skills__data">
                     {/* <i className="bx bx-badge-check"></i>*/}
-                    <i class="fa-brands fa-html5 icon"></i>
+                    <i className="bx bx-badge-check"></i>
                     
 
                     <div>
@@ -21,7 +21,7 @@ const Frontend = () => {
                 <div className="skills__data">
                     
                     
-                    <i class="fa-brands fa-css3 icon"></i>
+                    <i className="bx bx-badge-check"></i>
 
                     <div>
                         <h3 className="skills__name">CSS</h3>
@@ -31,7 +31,7 @@ const Frontend = () => {
 
                 <div className="skills__data">
                     
-                    <i class="fa-brands fa-js icon"></i>
+                    <i className="bx bx-badge-check"></i>
 
                     <div>
                         <h3 className="skills__name">JavaScript</h3>
@@ -43,7 +43,7 @@ const Frontend = () => {
         
             <div className="skills__group">
                 <div className="skills__data">
-                    <i class="fa-brands fa-bootstrap icon"></i>
+                    <i className="bx bx-badge-check"></i>
 
                     <div>
                         <h3 className="skills__name">Bootstrap</h3>
@@ -52,7 +52,7 @@ const Frontend = () => {
                 </div>
 
                 <div className="skills__data">
-                    <i class="fa-brands fa-git-alt icon"></i>
+                    <i className="bx bx-badge-check"></i>
 
                     <div>
                         <h3 className="skills__name">Git</h3>
@@ -62,7 +62,7 @@ const Frontend = () => {
 
                 <div className="skills__data">
                     
-                    <i class="fa-brands fa-react icon"></i>
+                    <i className="bx bx-badge-check"></i>
 
                     <div>
                         <h3 className="skills__name">React</h3>
