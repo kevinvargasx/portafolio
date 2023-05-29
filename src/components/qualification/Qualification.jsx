@@ -70,11 +70,11 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Ingeniería de Sistemas</h3>
-                            <span className="qualification__subtitle">Universidad - Católica Sedes Sapientiae</span>
+                            <h3 className="qualification__title">Desarrollo web autodidacta </h3>
+                            <span className="qualification__subtitle">cursos en línea, tutoriales y proyectos prácticos</span>
                             <div className="qualification__calender">
                                 <i className="uil uil-calendar-alt"></i>
-                                2019 - Presente
+                                Presente
                             </div>
                     </div>
 

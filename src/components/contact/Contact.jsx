@@ -65,14 +65,14 @@ const Contact = () => {
 
                         <div className="contact__form-div contact__form-area">
                             <label className="contact__form-tag">Proyecto</label>
-                            <textarea name="project" cols="30" rows="10" className='contact__form-input' placeholder='Esbribe acerca de tu proyecto'></textarea>
+                            <textarea name="project" cols="30" rows="10" className='contact__form-input' placeholder='Escribe acerca de tu proyecto'></textarea>
                         </div>
 
                         <button className="button button--flex">
                         Enviar Mensaje
 
                         <svg
-                            class="button__icon"
+                            className="button__icon"
                             xmlns="http://www.w3.org/2000/svg"
                             width="24"
                             height="24"
