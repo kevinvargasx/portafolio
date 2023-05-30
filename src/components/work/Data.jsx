@@ -55,7 +55,7 @@ export const projectsData = [
       image: Work3,
       title: "Boletines",
       category: "miniproject",
-      url:"https://deadkevinx.github.io/boletines/",
+      url:"http://boletin.42web.io/",
       description:(
         <div>
             <p>
