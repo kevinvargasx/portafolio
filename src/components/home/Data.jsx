@@ -55,8 +55,8 @@ const Data = () => {
         </svg>
         </h1>
 
-        <h3 className="home__subtitle">Estudiante de Ing. Sistemas</h3>
-        <p className="home__description"> Soy una persona creativa, me apasiona el desarrollo web y he estado trabajando en varios proyectos en esta área. <br/>En mi portafolio web, puedes encontrar algunos de los proyectos que he creado, desde sitios web simples hasta aplicaciones web más complejas.</p>
+        <h3 className="home__subtitle">Ing. Sistemas - Desarrollador Full Stack</h3>
+        <p className="home__description"> Soy una persona creativa, me apasiona el desarrollo web y he estado trabajando en varios proyectos en esta área. <br/>En mi portafolio web, puedes encontrar algunos de los proyectos que he creado, desde sitios web simples hasta aplicaciones más complejas.</p>
         <a href="#contact" className="button button--flex">
             Di Hola!
 
