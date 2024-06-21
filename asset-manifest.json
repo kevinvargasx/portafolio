@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.9d96abdd.css",
+    "main.js": "/portafolio/static/js/main.24501caa.js",
+    "static/js/787.ae0d8d37.chunk.js": "/portafolio/static/js/787.ae0d8d37.chunk.js",
+    "static/media/profile.jpg": "/portafolio/static/media/profile.028e24e2ef15d8ddbe11.jpg",
+    "static/media/Cv_VargasSalazarKevin_Dev.pdf": "/portafolio/static/media/Cv_VargasSalazarKevin_Dev.7ac629362bbe394b9e67.pdf",
+    "static/media/about.jpg": "/portafolio/static/media/about.c7c207816363b946387c.jpg",
+    "static/media/work1.jpg": "/portafolio/static/media/work1.24e6f8ad0d51e5182e73.jpg",
+    "static/media/work2.jpg": "/portafolio/static/media/work2.b96395d233b46d461d55.jpg",
+    "static/media/work3.jpg": "/portafolio/static/media/work3.bdfd93d9e395372c201a.jpg",
+    "static/media/work4.jpg": "/portafolio/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/portafolio/static/media/work5.094ec4a2224db8908873.jpg",
+    "index.html": "/portafolio/index.html",
+    "main.9d96abdd.css.map": "/portafolio/static/css/main.9d96abdd.css.map",
+    "main.24501caa.js.map": "/portafolio/static/js/main.24501caa.js.map",
+    "787.ae0d8d37.chunk.js.map": "/portafolio/static/js/787.ae0d8d37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d96abdd.css",
+    "static/js/main.24501caa.js"
+  ]
+}
